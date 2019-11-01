@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color:floralwhite;
+    background-color:darkslateblue
+}
+
+body{
+    background-image: url(../images/kadai3.jpg); 
+}
+
+h2{
+    text-align: center;
+    color:aliceblue;
+    background-color:darkslategray;
+}
+
+h3{
+    color:blue;
+}
+
+p{
+    color:crimson
+}

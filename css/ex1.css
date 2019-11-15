@@ -1,0 +1,25 @@
+body{
+    background-image: url(../images/ex1.jpg);
+}
+
+h1{
+    color:antiquewhite;
+    font-size: 35px;
+    font-weight: bold;
+    background-color:cadetblue;
+    text-align: center;
+}
+
+h2{
+    color:darkorange;
+    background-color: darkgreen;
+    text-align: center;    
+}
+
+table{
+    background-color: antiquewhite;
+}
+
+ol{
+    background-image: url(../images/kadai3.jpg)
+}

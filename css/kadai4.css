@@ -1,0 +1,27 @@
+body{
+    background-image: url(../images/kadai4.jpg);
+}
+
+h1.title {
+    background-color:darkseagreen;
+    color: black;
+    text-align: center;
+}
+
+h2.origami{
+    background-color: firebrick;
+    color:beige;
+    text-align: center;
+}
+
+h2.katana{
+    background-color:darkgray;
+    color: darkorchid;
+    text-align: center;
+}
+
+h1.link{
+    background-color:aquamarine;
+    color:darkblue;
+    text-align: center;
+}

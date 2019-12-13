@@ -1,0 +1,70 @@
+div.wrap{
+    width: 1000px;
+    margin: auto;
+}
+div.title{
+    width: 1000px;
+    height: 40px;
+    margin-bottom: 20px;
+    background-color: gray;
+}
+
+div.menu1{
+    width: 250px;
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: red;
+}
+
+div.menu2{
+    width: 250px;
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: red;
+}
+
+div.menu3{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+}
+
+div.image1{
+    width: 700px;
+    height: 300px;
+    background-color: black;
+}
+
+div.sentence{
+    width: 700px;
+    height: 20px;
+    background-color: blue;
+}
+
+div.hooter{
+    width: 1000px;
+    height:  40px;
+    background-color: orange;
+    text-align: right;
+}
+
+div.menuimage{
+    font-size: 0px;  
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+div.menu{
+    vertical-align: top;
+    display: inline-block;
+    margin-right: 50px;
+    font-size: 15px;
+    background-color: silver;
+}
+
+div.image{
+    vertical-align: top;
+    display: inline-block;
+    font-size: 15px;
+    background-color: silver;
+}

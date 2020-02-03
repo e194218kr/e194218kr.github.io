@@ -1,0 +1,109 @@
+body{
+background-image: url("../images/background_p1.jpg");
+background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: auto;
+}
+
+div.wrap{
+    width: 1200px;
+    margin : 0px auto;
+    margin-top: 100px;
+}
+
+a{
+    text-decoration: none;
+    color:cadetblue;
+}
+
+@import url('https://fonts.google.com/specimen/Gaegu');
+div.header{
+    width: 700px;
+    height: 50px;
+    margin: auto;
+    text-align: center;
+    color:darkslategray;
+    font-size: 40px;
+    margin-bottom: 20px;
+    /*font-family: 'Gaegu',cursive;*/
+}
+
+div.contens{
+    font-size: 0px;
+    width: 1200px;
+    height: 1000px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.menu{
+    width: 1200px;
+    height: 65px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin: auto;
+    display: inline-block;
+    font-size: 0;
+    vertical-align: top;
+}
+
+span.menuitem{
+    width: 295px;
+    height: 65px;
+    font-size: 50px;
+    margin-top: 20px;
+    background-color:darkgray;
+    color:azure;
+    display: inline-block;
+    text-align: center;
+    margin-right: 5px;
+    margin-bottom: 0px;
+}
+
+div.image{
+    font-size: 0px;
+    width:1200px;
+    height: auto;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 70px;
+    text-align: center;
+    display: inline-block;
+    vertical-align:top;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+}
+
+span.image1{
+    margin-bottom: 0px;
+    width: 340px;
+    height: auto;
+    vertical-align:middle;
+    display: inline-block;
+}
+
+span.sentence{
+    width: 600px;
+    height: auto;
+    background-color: antiquewhite;
+    font-size: 15px;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+hooter{
+    width:100%;
+    height: 40px;
+    font-size: 10px;
+    text-align: center;
+    background-color: white;
+}
